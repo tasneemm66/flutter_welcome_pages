@@ -1,0 +1,2 @@
+# student.activites
+Testing projects
